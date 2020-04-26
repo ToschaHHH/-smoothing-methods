@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c545f02-4358-4d92-89ce-9566011e0d0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils_date.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,19 @@
       <option name="presentableId" value="Default" />
       <updated>1587907929387</updated>
     </task>
+    <task id="LOCAL-00001" summary="Default_version">
+      <created>1587908188622</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587908188622</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Default_version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default_version" />
   </component>
   <component name="WindowStateProjectService">
     <state x="254" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587908146634">
