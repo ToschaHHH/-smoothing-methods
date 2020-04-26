@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c545f02-4358-4d92-89ce-9566011e0d0b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b533cxErCeOTEDvH6na1P62xvR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="-smoothing-methods" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c545f02-4358-4d92-89ce-9566011e0d0b" name="Default Changelist" comment="" />
+      <created>1587907929387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587907929387</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587908146634">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="254" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1600.870@0.30.1600.870" timestamp="1587908146634" />
+    <state x="467" y="63" key="CommitChangelistDialog2" timestamp="1587908187964">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="467" y="63" key="CommitChangelistDialog2/0.30.1600.870@0.30.1600.870" timestamp="1587908187964" />
+    <state x="580" y="222" key="FileChooserDialogImpl" timestamp="1587908068752">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="580" y="222" key="FileChooserDialogImpl/0.30.1600.870@0.30.1600.870" timestamp="1587908068752" />
+    <state x="303" y="110" key="SettingsEditor" timestamp="1587908123630">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="303" y="110" key="SettingsEditor/0.30.1600.870@0.30.1600.870" timestamp="1587908123630" />
+    <state x="508" y="292" key="com.intellij.ide.util.TipDialog" timestamp="1587907932545">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="508" y="292" key="com.intellij.ide.util.TipDialog/0.30.1600.870@0.30.1600.870" timestamp="1587907932545" />
+    <state x="611" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587908168830">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="611" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.1600.870@0.30.1600.870" timestamp="1587908168830" />
+  </component>
+</project>
